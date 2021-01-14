@@ -1,6 +1,20 @@
 # Ranking-ML-Feature-Selection
 Rank and visualize machine learning and feature selection approaches on Software Fault and Maintenance Effort
 
+PLATFORM USED:- Python Run time environment
+
+LIBRARY USED:- Pandas, Scipy, Pickle , Numpy
+
+STEPS:-
+1) Run the  find_signature.py
+2) Run new_enron_feature.py
+3) Run poi_flag_email.py
+4) finally for the visualization run visualize_new_feature.py
+
+No need to set any environment variable
+
+DATASET DESCRIPTION
+
 We have used following ten open source datasets for our research:-
 ant1.7, camel1.6, jEdit4.3, log4j1.2, lucene2.4, poi3.0, synapse1.2, velocity1.6.1, xalan2.7.0, xerces1.4.4
 
@@ -48,7 +62,7 @@ LOC:-Lines of Code
 
 Bug:-Number of bugs detected in the class
 
-Feature Selection methods
+FEATURE SELECTION METHODS
 
 In general, some features or datasets of various datasets can result in misleading accuracy of the prediction models because some attributes may be redundant, irrelevant as one of them may be correlated to the other one, so it is important to remove these datasets from our dataset before evaluating the machine learning algorithms. This can be accomplished by using feature selection methods. The aim of feature selection is to select a combination of features which would improve performance over selecting all features. We have used following seven feature selection in Weka which is open source data mining software as shown in the table along with the description of each method:-
 
