@@ -8,24 +8,43 @@ Each dataset has 21 attributes which include both class size attributes and obje
 WMC:-Weighted Methods per Class
 
 DIT:-Depth of Inheritance Tree
+
 NOC:-Number of Children
+
 CBO:-Coupling Between Object classes
+
 RFC:-Response for a Class
+
 LCOM:-Lack of Cohesion in Methods
+
 LCOM3:-Lack of Cohesion in Methods, different from LCOM
+
 NPM:-Number of Public Methods
+
 DAM:-Data Access Metric
+
 MOA:-Measure of Aggregation
+
 MFA:-Measure of Function Abstraction
+
 CAM:-Cohesion among Methods of class
+
 IC:-Inheritance Coupling
+
 CBM:-Coupling Between Methods
+
 AMC:-Average Method Complexity
+
 Ca:-Afferent couplings
+
 Ce:-Efferent couplings
+
 Max_CC:-Maximum McCabe’s Cyclomatic Complexity values of methods in the same  class
+
 Avg_CC:-Mean McCabe’s Cyclomatic Complexity values of methods in the same class
+
 LOC:-Lines of Code
+
 Bug:-Number of bugs detected in the class
 
 Feature Selection methods
