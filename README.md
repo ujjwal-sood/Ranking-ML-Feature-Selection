@@ -1,9 +1,11 @@
 # Ranking-ML-Feature-Selection
 Rank and visualize machine learning and feature selection approaches on Software Fault and Maintenance Effort
 
-PLATFORM USED:- Python,C++
+LANGUAGES USED:- Python,C++
 
 LIBRARY USED:- Pandas, Scipy, Pickle , Numpy
+
+PLATFORM USED:- MS EXCEL
 
 STEPS:-
 1) Run the  find_signature.py
