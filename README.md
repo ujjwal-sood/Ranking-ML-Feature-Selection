@@ -80,5 +80,19 @@ In general, some features or datasets of various datasets can result in misleadi
 
 7.SymmetricalUncertAttributeEval	  Evaluates the worth of an attribute by measuring the symmetrical uncertainty with respect to the class
 
+MACHINE LEARNING METHODS
 
+1)Linear Regression
+
+2)Multi Layer Perceptron
+
+3)Support Vector Machine Regression
+
+4)Decision Tree
+
+5)K Nearest Neighbours 
+
+6)M5P Tree
+
+7)Gaussian Process
 
